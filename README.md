@@ -1,3 +1,10 @@
+### Teaching Staff
+
++   Instructor: [Dr. Min-Zheng Shieh](mailto:mzshieh@nctu.edu.tw) mzshieh@nctu.edu.tw
++   Teaching Assistants: [Mr. Chun-Kai Chen](mailto:wingemerald@gmail.com), [Mr. Cheng Sun](mailto:s2821d3721@gmail.com), [Sherry Chang](mailto:lovingkpp@gmail.com)
+
+### Outline
+
 +   Web IDE: [c9.io](https://c9.io/)
     +   [帳號索取](https://goo.gl/forms/Lv82QshGbtmCnOKM2)
 +   [Scratch](https://scratch.mit.edu/)
