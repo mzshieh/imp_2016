@@ -13,7 +13,7 @@
 +   遊戲
     +   [Coin Man](https://scratch.mit.edu/projects/24538490/) by [Flapjax404](https://scratch.mit.edu/users/Flapjax404/)
         +   可以兩分鐘內結束這遊戲嗎?
-+   [Slide 1](https://github.com/mzshieh/imp_2016/blob/master/imp_lec01.pptx)
++   [Slide 1](slides/imp_lec01.pptx)
     +   Programmed to Dance
         +   [Video 1](http://www.vimeo.com/28612347)
         +   [Video 2](http://www.vimeo.com/28612585)
@@ -61,7 +61,7 @@
         +   翻譯為 Python
         +   翻譯為 javascript ---- 助教才會寫
 
-+   [Slide 3](slides/imp_lec02.pptx)
++   [Slide 3](slides/imp_lec03.pptx)
     +   [Characters](https://scratch.mit.edu/projects/115946864/)
     +   [Conversation](https://scratch.mit.edu/projects/10015800/)
         +   修改：透過廣播訊息來做
