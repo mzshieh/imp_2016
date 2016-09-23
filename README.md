@@ -31,7 +31,7 @@
         +   [Debug 1.3](https://scratch.mit.edu/projects/10437366/): 希望空白鍵按下後貓咪能夠翻轉一圈。可是怎麼按貓咪就是不動，該怎麼辦？
         +   [Debug 1.4](https://scratch.mit.edu/projects/10437439/): 希望貓咪左右來回移動，可是他碰到邊緣後卻變得頭下腳上，該怎麼辦？
         +   [Debug 1.5](https://scratch.mit.edu/projects/10437476/): 希望按下去後貓咪能夠喵喵喵叫三聲：發出聲音跟顯示出對話框。可是他只叫一聲，而且對話泡泡顯示的方式不對。
-+   [Slide 2](imp_lec02.pptx)
++   [Slide 2](slides/imp_lec02.pptx)
     +   畫筆示範
         +   請大家畫棵樹
             +   用紙筆你怎麼畫？
@@ -61,7 +61,7 @@
         +   翻譯為 Python
         +   翻譯為 javascript ---- 助教才會寫
 
-+   [Slide 3](imp_lec03.pptx)
++   [Slide 3](slides/imp_lec02.pptx)
     +   [Characters](https://scratch.mit.edu/projects/115946864/)
     +   [Conversation](https://scratch.mit.edu/projects/10015800/)
         +   修改：透過廣播訊息來做
