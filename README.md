@@ -54,11 +54,11 @@
         +   [Debug 2.4](https://scratch.mit.edu/projects/23267140/): 希望花開完了要停下來，該怎麼辦？
         +   [Debug 2.5](https://scratch.mit.edu/projects/23267245/): 希望生日快樂歌唱完才提示可以吹蠟燭了。
     +   作業：畫個雪花
-    +   控制結構總結範例：移動 n! 步
-        +   翻譯為 C
-        +   翻譯為 C++
-        +   翻譯為 Java
-        +   翻譯為 Python
+    +   控制結構總結[範例](https://scratch.mit.edu/projects/122425535/)：移動 n! 步
+        +   翻譯為 [C](code/factorial.c)
+        +   翻譯為 [C++](code/factorial.cpp)
+        +   翻譯為 [Java](code/Factorial.java)
+        +   翻譯為 [Python](code/factorial.py)
         +   翻譯為 javascript ---- 助教才會寫
 
 +   [Slide 3](slides/imp_lec03.pptx)
